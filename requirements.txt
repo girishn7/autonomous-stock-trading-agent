@@ -1,0 +1,9 @@
+# requirements.txt
+pandas
+numpy
+yfinance
+transformers
+torch
+gym
+stable-baselines3
+matplotlib
